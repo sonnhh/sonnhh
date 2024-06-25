@@ -22,9 +22,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnhh&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
-</p>
-
-<p align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=sonnhh&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
 </p>
